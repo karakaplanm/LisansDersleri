@@ -1,0 +1,29 @@
+GUI (Graphical User Interface)
+
+Grafiksel Kullanıcı  Arayüzü kullanım şekilleri
+-----------------------------------------------
+İşletim sistemleri ve Masaüstü Ortamları
+Para Otomatları (ATM)
+Point-Of-Sale POS Cihazları
+Self Servis makinaları
+Bilet Otomatları
+Müze, istasyon, otogar vb yerlerdeki KIOSK cihazlar
+Real Time Operation Ssytem RTOS kullanan endüstriyel cihazlar
+Telefon ve Tabletler
+Otomobil ve Navigasyon sistemleri
+
+
+Hangi GUI Programlama Aracı
+-----------------------------
+-Taşınabilirlik
+-Pazar payı
+-Sunduğu kütüphaneler
+
+Hangi Dil
+-------------------------------------------------------------
+C/C++ -> Bütün Sistemler, Qt, GTK
+OpenGL, GL ES Kütüphaneleri -> Bütün sistemlerde, 3D oyun vb.
+Java, Bütün sistemler
+XCode IOS, MacOS
+C# Windows Sistemlerinde
+Python, Bütün sistemler, PyGtk, PyGame, PyQt

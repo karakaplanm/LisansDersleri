@@ -1,0 +1,14 @@
+import java.util.*;
+String sys = System.getProperty("os.name"); /* Linux */
+Properties p = System.getProperties( );
+p.list(System.out); /* Liste verir */
+
+String
+String a = "Java Programlama";
+String b = a.substring(5);
+String c = a.substring(5,7);
+String d = a.substring(5,a.length( ));
+
+StringTokenizer st = new StringTokenizer("bu da "+" deneme olsun");
+while (st.hasMoreTokens( ))
+System.out.println("Token: " + st.nextToken( )); /* alt alta bu da deneme olsun yazar */

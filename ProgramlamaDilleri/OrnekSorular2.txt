@@ -1,0 +1,43 @@
+1. Aşağıdaki işlemin çıktısı ne olur?
+
+   int a = 3;
+   int b = 4;
+   System.out.print(a+ b + " " + 7 + 2 + " "+a+b);
+        
+   Cevap: 7 72 34 
+        
+2. Aşağıda döngü ve şartlı ifade içeren bir uygulama verilmiştir. Ekran çıktısı nasıl olacaktır?
+
+   for (int i=0;i<9;i++){
+     if (i%2==1) System.out.print(i + ", ");
+     }
+
+Cevap: 1, 3, 5, 7
+3. Aşağıdaki döngünün ekran çıktısı nasıldır?
+       int x = 10;
+       for (int y=0; y<5; y++, x--)
+            System.out.print(x + ", ");
+Cevap: 10, 9, 8, 7, 6
+            
+4. Aşağıdaki işlemin çıktısı ne olur?
+        int x = 10;
+        for (int y=0; y<4; y++, x--)
+            System.out.print(" "+ x + y + ", ");
+            
+Cevap: 100, 91, 82, 73
+
+5. Bir fonksiyon çağırma örneği veriniz.
+
+public class Ornek2 {
+	public static void main(String[] args) {
+             System.out.println("Hipotenus=" + hipotenus(3,4));
+	}
+	static public double hipotenus(double a, double b)
+	{
+	    return (Math.sqrt(a*a+b*b));
+	}
+}
+
+Çıktı: Hipotenüs=5.0
+
+

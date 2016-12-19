@@ -1,0 +1,53 @@
+<html></html>
+
+<head></head> Başlık ve diğer ayarlar.
+
+<title></title> Sayfanın başlığını düzenleme
+
+<body></body> Tarayıcıda görünecek bölüm
+
+<body  bgcolor=?> Sayfanın arka plan rengi
+
+<pre>  </pre> Formatsız yazı yazma
+
+<h1>  </h1> Birinci dereceden başlık (1...6)
+
+<b>  </b> Koyu yazma
+
+<i>  </i> İtalik yazı
+
+<tt>  </tt> Daktilo karekteri ile yazma
+
+<code>  </code> Kaynak kodu yazmak için
+
+<font  size=?>  </font> Font büyüklüğü (-1..6)
+
+<font  color=?>  </font> Font rengi
+
+<a  href=”URL”>Açıklama</a> Link verme
+
+<p>  </p> Paragraf
+
+<br> Satır başı yapma
+
+<ul>  </ul> Sıra numarasız liste
+
+<ol  start=?>  </ol> Sıra numaralı liste
+
+<li>  </li> Liste elemanı
+
+<hr> Yatay çizgi çizme
+
+<hr  size=?> Çizgi kalınlığı belirtme
+
+<hr  width=?> Çizgi genişliği verme
+
+<img  src=”URL”> Resim yerleştirme
+
+<table>  </table> Tablo yapma
+
+<tr>  </tr> Tablo satır başlama ve bitirme
+
+<td>  </td> Tabloda kolon başlama ve bitirme
+
+

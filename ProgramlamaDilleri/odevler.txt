@@ -1,0 +1,12 @@
+
+Odevlerinizi en geç 7 gün içinde karakaplanm@gmail.com adresine gönderiniz.
+
+19.10.2015 
+Ekrana aşağıdaki şekilde bir çıktı verecek program yazınız.
+1******
+12*****
+123****
+1234***
+12345**
+123456*
+1234567

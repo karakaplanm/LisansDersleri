@@ -1,0 +1,47 @@
+
+TKInter
+----------------------------------------
+#!/usr/bin/python
+import Tkinter
+top = Tkinter.Tk()
+# Code to add widgets will go here...
+top.mainloop()
+----------------------------------------
+
+
+Kivy
+http://kivy.org/#download
+--------------------------------------------
+from kivy.app import App
+from kivy.uix.button import Button
+
+class TestApp(App):
+    def build(self):
+        return Button(text='Hello World')
+
+TestApp().run()
+-------------------------------------------
+
+PyGame
+http://pygame.org
+---------------------------------------------------------------------
+import pygame 
+from pygame.locals import *
+from sys import exit 
+ 
+pygame.init()           
+screen=pygame.display.set_mode((640, 480),0, 24)    
+pygame.display.set_caption("Hello World")   
+create=pygame.font.SysFont("comicsansms",30) 
+f=create.render("Hello World",True,(0, 0, 0),(255, 255, 255)) 
+img=pygame.image.load("simple.jpg").convert()
+while True: 
+ 
+ for i in pygame.event.get(): 
+  if i.type==QUIT: 
+   exit() 
+ 
+screen.blit(img,(0, 0))   
+screen.blit(f,(200, 200)) 
+pygame.display.update()   
+--------------------------------------------------------------------

@@ -1,0 +1,21 @@
+Swing ile grafik penceresi oluşturmak için eklenti ve kullanma
+
+
+1. Adım
+Eclipse  (LUNA) de Help -> Install New Software -> Work With 
+yerine
+http://download.eclipse.org/windowbuilder/WB/release/R201406251200/4.4/
+
+adresini yapıştırın. Ve add diyin.
+Çıkan listeden Swing Designer, SWT Designer ve WindowBuilder Engine i seçip Next diyin.
+Yükleme bittince Eclipse yeniden başlatma yapacak.
+
+2. New -> Project -> WindowBuilder- SWT
+ile yeni proje oluşturun
+
+Class için src üzerinde sağ tıkla
+New -> Other -> Swing -> Application Window -> Bir ad vererek class oluştur
+Bu class ı seç ve Design View e geç.
+
+Burdan araçlar menüsünden Layout, button, text ekleme yap
+

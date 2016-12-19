@@ -1,0 +1,31 @@
+
+Programlama Dilleri-1 Dersi Konuları
+------------------------------------
+
+- Algoritmaya giriş, iş akış şemaları
+- Değişkenler (Global ve Yerel) 
+- Operatörler
+- Kontrol Deyimleri (if, if/else)
+- Döngüler (while, do/while, for);
+- Sonsuz Döngüler
+- İç içe döngüler
+- Fonksiyon Oluşturma
+- Tür Dönüşümleri
+- Rasgele Sayı üretimi
+- Diziler
+
+
+Algoritmaya giriş, 
+akış şemaları ile problem çözme, 
+çalışma zamanı ve kompleksite kavramları, 
+sıralama algoritmaları, 
+özyineleme ve ikili ağaç gösterimleri, 
+indirgeme bağlantıları, veri yapılarında ikili arama teknikleri,
+matrisler ve matrisler üzerine işlemler. 
+Programlama dillerinde temel kavramlar: Atom, nesne, ifade, deyim, 
+bildirim, tanımlama, sabit kavramları ve uygulamaları. 
+Sayı sistemleri, fonksiyonlar, başlık dosyalarının kullanımı. 
+Faaliyet alanı ve ömür. 
+Global ve local (yerel) değişkenler. 
+Operatörler: Aritmetik, mantıksal, karşılaştırma, gösterici (Pointer), bitsel ve diğer operatörler. 
+ Dosya işlemleri.

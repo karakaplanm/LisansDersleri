@@ -1,0 +1,14 @@
+body {
+	background-color: lightgrey;
+}
+h1 { 
+    color: darkgreen;
+    background-color: grey;
+    font-size: 48px;
+    font-family: "Times New Roman";
+   }
+h2 { 
+    color: darkblue;
+    font-size: 36px; 
+	 font-weight: normal;
+    }

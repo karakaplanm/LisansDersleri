@@ -1,0 +1,12 @@
+
+Sevgili Öğrenciler, 
+
+Web tasarımı dersinde yapılması gerekenler aşağıda verilecektir. 
+
+1- Web tasarımı dersi için ücretsiz web hosting hizmeti veren bir adres bularak kendi kişisel web sayfanızı oluşturunuz ve oluşturduğunuz web sayfasının URL adresini karakaplanm@gmail.com adresine gönderiniz.
+2- Kişisel web sayfanızda temel HTML komutlarının uygulamasını yapınız.
+
+3- 03_Tablolar.html ornek web sayfasını temel alarak benzeri bir web sayfası tasarımı yapın. 
+
+
+

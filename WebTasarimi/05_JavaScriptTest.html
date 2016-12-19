@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<script>
+var s1=0;
+var s2=0;
+var toplam=0;
+function baslangic() {
+s1=Math.floor((Math.random() * 10) + 1);
+s2=Math.floor((Math.random() * 10) + 1);
+toplam=s1+s2;
+document.getElementById("s1").innerHTML = s1;
+document.getElementById("s2").innerHTML = s2;
+}
+  
+function ornekFonksiyon() {
+var t=document.getElementById("toplamid").value;
+document.getElementById("sonuc").innerHTML = "Bilemedin Sonuc:"+t;
+if (t==toplam) {
+document.getElementById("sonuc").innerHTML = "Aferin";
+}
+baslangic();
+}
+</script>
+</head>
+
+<body onLoad="baslangic();">
+
+<h1>JavaScript Ornek</h1>
+
+<p id="sonuc">Sonuc</p>
+<p id="s1">0</p>
+<p id="s2">0</p> 
+----------+<br>
+<input type="text" name="toplam" id="toplamid">?
+
+<button type="Tamam" onclick="ornekFonksiyon()">Tikla</button>
+
+</body>
+</html>

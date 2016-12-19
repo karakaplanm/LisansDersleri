@@ -1,0 +1,137 @@
+Programlama Dilleri Dersi - I Vize örnek soruları.
+
+1) 1 den 100 e kadar olan sayıları toplayınız. Aynı işlemi tek veya çift sayılarla yapınız.
+
+public class Toplama{
+  public static void main(String[] args) {
+    int i, toplam=0;
+    for (i=1;i<=100;i++) toplam=toplam+i;
+    System.out.println("Sonuc=" + toplam);
+  }
+}
+
+Tek sayılar için döngüde for (i=1;i<=100;i=i+2)
+Çift sayılar için döngüde for (i=0;i<=100;i=i+2)
+kullanmak gerekir.
+
+
+2) 1 den 10 kadar olan sayıların çarpımını hesaplayınız.
+
+public class Carpma{
+  public static void main(String[] args) {
+    int i, carpim=1;
+    for (i=1;i<=10;i++) carpim=carpim*i;
+    System.out.println("Sonuc=" + carpim);
+  }
+}
+
+3) N ' e kadar sayıların toplamını döndüren bir fonksiyon yazınız ve ornek kullanım veriniz.
+
+public class Soru3{
+  public static void main(String[] args) {
+    System.out.println(topla(100));
+  }
+  public static int topla (int N){
+    int i, toplam=0;
+    for (i=1;i<=N;i++) toplam=toplam+i;
+    return toplam;
+  }
+}
+
+4) Faktoriyel fonksiyonu yazınız ve kullanan bir uygulama yazınız.
+
+public class Soru4{
+   public static void main(String[] args) {
+     System.out.println(faktoriyel(10));
+   }
+   public static int faktoriyel(int N) {
+     int i, carpim=1;
+     for (i=1;i<=N;i++) carpim=carpim*i;
+     return carpim;
+  }
+}
+
+5) Klavyeden sayı isteyen ve girilen tamsayının tek mi çift mi olduğunu yazan bir program yazınız.
+
+import java.util.Scanner;
+public class Soru5 {
+  public static void main(String args[]){
+    Scanner giris=new Scanner(System.in);
+    System.out.print("Sayı Gir :");
+    double a=giris.nextDouble();
+    if (((double)a/2.0 - (int) a/2) >0) System.out.println(a + " Tek");
+    else System.out.println(a + " Çift");
+  }
+}
+
+6) Bir String deki karakterleri tersten yazan bir uygulama yazınız.
+public class Soru6{
+   public static void main(String[] args) {
+     String a="Mustafa";
+     int uzunluk=a.length();
+     for (int i=0;i<uzunluk;i++) {
+        System.out.println(a.charAt(uzunluk-1-i));
+     }
+   }
+}
+   
+
+7) * karekteri ile ekrana girilen N sayısı uzunluğunda kare çizen bir fonksiyon yazınız. Örnek N=4 için çıktı;
+****
+*  *
+*  *
+****
+şeklinde olacak.
+
+public class Soru7{
+   public static void main(String[] args) {
+      kareyaz(10);
+      kareyaz(20);
+   }
+
+   public static void kareyaz(int N) {
+        int x,y;
+        for (y=0;y<N;y++) {
+          for (x=0;x<N;x++) {
+           if (x==0 || y==0 || x==N-1 || y==N-1) System.out.print("*");
+           else System.out.print(" ");
+          }
+         System.out.println();
+        }
+  }
+}
+
+
+8) Dik kenarları verilen bir üçgenin hipotenüsünü ve iç açılarının değerlerini yazan bir uygulama yazınız.
+
+public class Soru8{
+   public static void main(String[] args) {
+     double a=3; double b=4;
+     double c=Math.sqrt(a*a+b*b);
+     double ac=Math.acos(a/c)*180.0/Math.PI;
+     double bc=Math.acos(b/c)*180.0/Math.PI;
+     System.out.println("a="+a+" b="+b+" c="+c);
+     System.out.println("ac açısı="+ac);
+     System.out.println("bc açısı="+bc);
+   }
+}
+
+9) Toplandığında 74 veren iki basamaklı, birbirinden farklı ikili sayıları bulan bir program yapınız. 
+Örnek: 
+35+39=74
+
+public class Soru9{
+   public static void main(String[] args) {
+     for (int a=10;a<100;a++)
+     for (int b=10;b<100;b++)
+        if( (a+b)==74 && a!=b) System.out.println("a="+a+" b="+b);
+   }
+}
+
+10) İki sayının büyüğünü döndüren bir fonksiyon yazınız.
+
+public static int enbuyuk(int a, int b) {
+  if(a>b) return a;
+  else return b;
+}
+
