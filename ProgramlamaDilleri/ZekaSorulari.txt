@@ -26,7 +26,10 @@ hangi pencereden bakarsa baksın 15 tane keçi görüyor.
 -------------
 5  |  5  |  5
 
-Bir gün miras olarak  16 tane daha keçisi oluyor. Takıntılı çiftçi hangi pencereden bakarsa baksın yine 15 tane keçi görmek istiyor. Bu arzusunu gerçekleştirmek mümkün mü?
+Bir gün miras olarak  16 tane daha keçisi oluyor. Takıntılı çiftçi hangi pencereden 
+bakarsa baksın yine 15 tane keçi görmek istiyor. 
+
+Bu arzusunu gerçekleştirmek mümkün mü?
 
 Çözüm:
 
