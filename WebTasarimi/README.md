@@ -3,8 +3,8 @@ Web Tasarım Dersi Ders Notu ve Projeler Sayfası
 <tr><td>Adı Soyadı   </td> <td>Web S</td></tr>
 <tr><td>Furkan Bayram</td><td>+ </td></tr>
 <tr><td>Aydilge Zeynep Arıca</td><td>+</td></tr>
+<tr><td>Mehmet Ali Koca</td><td> +</td></tr>
 </table>
-Mehmet Ali Koca +
 Burcu Emre +
 Özlem Sucu +
 Betül Subaşı +
