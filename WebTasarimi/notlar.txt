@@ -1,0 +1,24 @@
+Flash!
+
+2009 HTML5, mozilla, firefox
+
+
+
+Flash(adobe)
+javafx(sun)
+silverlight (microsoft) 
+
+Apple flash ->html5
+
+<audio>, <video>, <embed>, time, details, summary, fig, mark, keygen vb.
+
+2014 Final version -> 2022 tamamlanma 
+
+html5 -> css3+ Java Script
+
+<canvas> ekrana nokta basmak
+https://www.cs.utexas.edu/~teammco/misc/html_canvas_particles/
+
+
+drag & drop
+
