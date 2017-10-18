@@ -4,7 +4,14 @@ Web Tasarım Dersi Ders Notu ve Projeler Sayfası
 <tr><td>Furkan Bayram</td><td>+ </td></tr>
 <tr><td>Aydilge Zeynep Arıca</td><td>+</td></tr>
 <tr><td>Mehmet Ali Koca</td><td> +</td></tr>
-  <tr><td><a href=https://ibrahim4913.wordpress.com>İ. Kaya</a></td><td>++</td></tr>
+<tr><td><a href=https://ibrahim4913.wordpress.com>İ. Kaya</a></td><td>++-</td></tr>
+<tr><td><a href=https://cihankayablog.wordpress.com/>C. Kaya</a></td><td>+--</td></tr>
+<tr><td><a href=https://muslum63.wordpress.com/>M. Öztürk</a></td><td>+--</td></tr>
+<tr><td><a href=https://emine44.wordpress.com/>E. Başıbüyük</a></td><td>+--</td></tr>
+
+
+
+  
 </table>
 Burcu Emre +
 Özlem Sucu +
