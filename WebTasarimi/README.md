@@ -29,8 +29,8 @@ Web Tasarım Dersi Ders Notu ve Projeler Sayfası
 <tr><td><a href=https://kpssrehbericom.wordpress.com>M. Aybar</a></td><td>+++</td></tr>
 <tr><td><a href=https://selcukseymaa.wordpress.com>S. Selçuk</a></td><td>+--</td></tr>
 <tr><td><a href=https://handan33.wordpress.com>H. Şahin</a></td><td>++-</td></tr>
-<tr><td><a href=https://lezzetinyolu49.wordpress.com>S. Akkoyun</td>++-</td></tr>
-<tr><td><a href=https://kamerrabia.kayisiyazilim.com>K. R. Akgüld>++-</td></tr>
+<tr><td><a href=https://lezzetinyolu49.wordpress.com>S. Akkoyun</a></td>++-</td></tr>
+<tr><td><a href=https://kamerrabia.kayisiyazilim.com>K. R. Akgüld</a></td><td>++-</td></tr>
 <tr><td><a href=http://bilisimkaynaklarim.blogspot.com.tr>M. Esen</a></td><td>++-</td></tr>
 </table>
 
