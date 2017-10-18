@@ -1,7 +1,7 @@
 Web Tasarım Dersi Ders Notu ve Projeler Sayfası
 <table>
-<tr><td>Adı Soyadı   </td> <td>Web | HTML+Tablo | HTML5</td></tr>
-<tr><td><a href=https://guvenayakkabiblog.wordpress.com>A. Güven</a></td><td>+--</td></tr>  
+  <tr> <td>Adı Soyadı</td> <td>Web</td> <td>HTML</td> <td>Tablo</td> <td>HTML5</td> <td><css</td> <td>js</td></tr>
+<tr><td><a href=https://guvenayakkabiblog.wordpress.com>A. Güven</a></td> <td>+</td> <td></td> <td></td> <td></td> <td></td></tr>  
 <tr><td><a href=https://gezi3312.wordpress.com>A. Ulukaya</a></td><td>+--</td></tr>
 <tr><td><a href=https://7eylul2017.wordpress.com>A. Z. Arıca</a></td><td>+--</td></tr>
 <tr><td><a href=https://burak1344.wordpress.com>B. Delibaş</a></td><td>+--</td></tr>
