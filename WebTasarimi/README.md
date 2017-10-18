@@ -12,10 +12,14 @@ Web Tasarım Dersi Ders Notu ve Projeler Sayfası
 <tr><td><a href=https://guvenayakkabiblog.wordpress.com/>A. Güven</a></td><td>+--</td></tr>
 <tr><td><a href=https://burak1344.wordpress.com>B. Delibaş</a></td><td>+--</td></tr>
 <tr><td><a href=https://httpegitim.wordpress.com>Y. Oflus</a></td><td>+--</td></tr>
+<tr><td><a href=https://mahsummalazgirt.wordpress.com>M. Malazgirt</a></td><td>+--</td></tr>
+<tr><td><a href=https://karaaslanim.wordpress.com>M. Karaaslan</a></td><td>+--</td></tr>
+<tr><td><a href=https://itechnotrain.wordpress.com>H. Sucu</a></td><td>++-</td></tr>
+<tr><td><a href=https://boteogretmeni.wordpress.com>B. Subaşı</a></td><td>++-</td></tr>
+<tr><td><a href=https://technoeduweb.wordpress.com/blog>Ö. Sucu</a></td><td>++-</td></tr>
+<tr><td><a href=https://bilisimtakip.wordpress.com>B. Emre</a></td><td>++-</td></tr>
 
-  
-  
-  
+
 </table>
 Burcu Emre +
 Özlem Sucu +
