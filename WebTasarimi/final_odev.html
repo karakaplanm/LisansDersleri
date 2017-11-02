@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"> 
+<style>
+div {
+    display: inline; 
+}
+</style>
+<script>
+var kisi={adi:"Mahmut", soyadi:"Kara"};
+function baslangic() {
+document.getElementById("s1").innerHTML = kisi.adi;
+document.getElementById("s2").innerHTML = kisi.soyadi;
+}
+  
+function deneme1() {
+var t=document.getElementById("s1").value;
+document.getElementById("s3").innerHTML = "Selam "+t;
+}
+</script>
+</head>
+
+<body onLoad="baslangic();">
+Adı:<div id="s1">Elma</div>
+<br>
+Soyadı:<div id="s2">Armut</div>
+<br>
+Soyadı:<div id="s3">Mesaj</div>
+
+<button type="Tamam" onclick="deneme1()">Tikla</button>
+</body>
+</html>
