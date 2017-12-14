@@ -10,7 +10,7 @@ Web Tasarım Dersi Ders Notu ve Projeler Sayfası
 <tr><td><a href=https://boteogretmeni.wordpress.com>B. Subaşı</a></td><td>+</td><td>+</td><td>+</td> <td>+</td> <td>+</td> <td></td></tr>
 <tr><td><a href=https://cihankayablog.wordpress.com>C. Kaya</a></td><td>+</td><td>+</td> <td>+</td> <td>+</td> <td></td> <td></td></tr>
 <tr><td><a href=https://doganozgur.wordpress.com>D. Özgür</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td> <td></td></tr>
-<tr><td><a href=https://emine44.wordpress.com>E. Başıbüyük</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td> <td></td></tr>
+<tr><td><a href=https://emine44.wordpress.com>E. Başıbüyük</a></td><td>+</td><td>+</td> <td>+</td> <td>+</td> <td>+</td> <td></td></tr>
 <tr><td><a href=https://emiromerinan.wordpress.com>E. Ö. İnan</a></td><td>+</td><td></td> <td></td> <td></td> <td></td> <td></td></tr>
 <tr><td><a href=https://kayisifidanim.wordpress.com>F. Bayram</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td> <td></td></tr>
 <tr><td><a href=https://gokhankaradogan.wordpress.com>G. Karadoğan</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td> <td></td></tr>
