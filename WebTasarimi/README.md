@@ -14,7 +14,7 @@ Web Tasarım Dersi Ders Notu ve Projeler Sayfası
 <tr><td><a href=https://emiromerinan.wordpress.com>E. Ö. İnan</a></td><td>+</td><td>+</td> <td>+</td> <td>+</td> <td>+</td> <td></td></tr>
 <tr><td><a href=https://kayisifidanim.wordpress.com>F. Bayram</a></td><td>+</td><td>+</td> <td>+</td> <td>+</td> <td>+</td> <td></td></tr>
 <tr><td><a href=https://gokhankaradogan.wordpress.com>G. Karadoğan</a></td><td>+</td><td>+</td> <td>+</td> <td>+</td> <td></td> <td></td></tr>
-<tr><td><a href=https://itechnotrain.wordpress.com>H. Sucu</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td> <td></td></tr>
+<tr><td><a href=https://itechnotrain.wordpress.com>H. Sucu</a></td><td>+</td><td>+</td> <td>+</td> <td>+</td> <td></td> <td></td></tr>
 <tr><td><a href=https://handan33.wordpress.com>H. Şahin</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td> <td></td></tr>
 <tr><td><a href=https://ibrahim4913.wordpress.com>İ. Kaya</a></td><td>++</td><td>++</td> <td>++</td> <td></td> <td></td> <td>+</td></tr>
 <tr><td><a href=https://kamerrabia.kayisiyazilim.com>K. R. Akgüld</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td> <td></td></tr>
