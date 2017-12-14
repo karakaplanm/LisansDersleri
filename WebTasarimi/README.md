@@ -32,7 +32,7 @@ Web Tasarım Dersi Ders Notu ve Projeler Sayfası
 <tr><td><a href=https://fotografcilik377.wordpress.com>Ş. Tuna</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td> <td></td></tr>
 <tr><td><a href=https://yunuscirag.wordpress.com>Y. Çırağ</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td><td>+</td></tr>
 <tr><td><a href=https://httpegitim.wordpress.com>Y. Oflus</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td> <td></td></tr>
-  <tr><td><a href="">Ayşe Yılmaz</a></td><td>+</td><td>+</td> <td>+</td> <td>+</td> <td></td> <td></td></tr>
+  <tr><td><a href="">Ayşe Yılmaz</a></td><td>+</td><td>+</td> <td>+</td> <td></td> <td></td> <td></td></tr>
   <tr><td><a href=>Büşra Arslan</a></td><td>+</td><td>+</td> <td>+</td> <td></td> <td></td> <td></td></tr>
   <tr><td><a href=>Hatice Arslan</a></td><td>+</td><td>+</td> <td>+</td> <td></td> <td></td> <td></td></tr>
   <tr><td><a href=>Necla Gezici</a></td><td>+</td><td>+</td> <td>+</td> <td></td> <td></td> <td></td></tr>
