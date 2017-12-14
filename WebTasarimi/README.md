@@ -29,7 +29,7 @@ Web Tasarım Dersi Ders Notu ve Projeler Sayfası
 <tr><td><a href=https://technoeduweb.wordpress.com/blog>Ö. Sucu</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td> <td></td></tr>
 <tr><td><a href=https://lezzetinyolu49.wordpress.com>S. Akkoyun</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td> <td></td></tr>
 <tr><td><a href=https://selcukseymaa.wordpress.com>S. Selçuk</a></td><td>+</td><td></td> <td></td> <td></td> <td></td> <td></td></tr>
-<tr><td><a href=https://fotografcilik377.wordpress.com>Ş. Tuna</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td> <td></td></tr>
+<tr><td><a href=https://fotografcilik377.wordpress.com>Ş. Tuna</a></td><td>+</td><td>+</td> <td>+</td> <td>+</td> <td>+</td> <td></td></tr>
 <tr><td><a href=https://yunuscirag.wordpress.com>Y. Çırağ</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td><td>+</td></tr>
 <tr><td><a href=https://httpegitim.wordpress.com>Y. Oflus</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td> <td></td></tr>
   <tr><td><a href="">Ayşe Yılmaz</a></td><td>+</td><td>+</td> <td>+</td> <td></td> <td></td> <td></td></tr>
