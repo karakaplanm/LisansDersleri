@@ -5,7 +5,7 @@ Web Tasarım Dersi Ders Notu ve Projeler Sayfası
 <tr><td><a href=https://gezi3312.wordpress.com>A. Ulukaya</a></td><td>+</td><td>+</td> <td>+</td> <td>+</td> <td>+</td> <td></td></tr>
 <tr><td><a href=https://7eylul2017.wordpress.com>A. Z. Arıca</a></td><td>+</td><td>+</td> <td>+</td> <td>+</td> <td>+</td> <td></td></tr>
 <tr><td><a href=https://burak1344.wordpress.com>B. Delibaş</a></td><td>+</td><td>+</td> <td>+</td> <td>+</td> <td>+</td> <td></td></tr>
-<tr><td><a href=https://bilisimtakip.wordpress.com>B. Emre</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td> <td></td></tr>
+<tr><td><a href=https://bilisimtakip.wordpress.com>B. Emre</a></td><td>+</td><td>+</td> <td>+</td> <td>+</td> <td></td> <td></td></tr>
 <tr><td><a href=https://gazisehir.wordpress.com>B. Kaya</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td> <td></td></tr>
 <tr><td><a href=https://boteogretmeni.wordpress.com>B. Subaşı</a></td><td>+</td><td>+</td><td>+</td> <td></td> <td></td> <td></td></tr>
 <tr><td><a href=https://cihankayablog.wordpress.com>C. Kaya</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td> <td></td></tr>
