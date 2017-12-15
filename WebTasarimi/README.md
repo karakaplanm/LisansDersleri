@@ -37,6 +37,7 @@ Web Tasarım Dersi Ders Notu ve Projeler Sayfası
   <tr><td><a href=>Hatice Arslan</a></td><td>+</td><td>+</td> <td>+</td> <td></td> <td></td> <td></td></tr>
   <tr><td><a href=>Necla Gezici</a></td><td>+</td><td>+</td> <td>+</td> <td></td> <td></td> <td></td></tr>
     <tr><td><a href=>Osman Ağcan</a></td><td>+</td><td>+</td> <td></td> <td></td> <td></td> <td></td></tr>
+  <tr><td><a href=>Z. Karaman</a></td><td>+</td><td>+</td><td>+</td><td>+</td> <td>+</td> <td></td></tr>
 </table>
 
 
